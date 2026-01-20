@@ -1,0 +1,12 @@
+*.out
+*.mtx
+
+.vscode/
+build/
+matrix/
+
+*.csv
+*.png
+*.jpeg
+
+
